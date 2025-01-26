@@ -105,4 +105,6 @@ Classe que faz a desserialização de objetos a partir de JSON para tipos espec�
 Classe que faz a serialização de objetos para JSON.
 
 ## Métodos
-- `fromVector2(Vector2 vector)`: Converte um objeto `Vector2` para um JSON string.
+- `fromVector2(Vector2 vector2)`: Converte um objeto `Vector2` para um JSON.
+- `fromVector3(Vector3 vector3)`: Converte um objeto `Vector3` para um JSON.
+- `fromVector4(Vector4 vector4)`: Converte um objeto `Vector4` para um JSON.
